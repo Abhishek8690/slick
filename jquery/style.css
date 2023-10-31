@@ -1,0 +1,19 @@
+body .slider {
+  width: 100%;
+}
+body .slider button {
+  background-color: red;
+  z-index: 1;
+}
+body .slider button.slick-prev {
+  left: 15px;
+}
+body .slider button.slick-next {
+  right: 15px;
+}
+body div.image-div {
+  width: 100%;
+}
+body div.image-div img {
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */
